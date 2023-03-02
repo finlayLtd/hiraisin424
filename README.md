@@ -81,37 +81,3 @@ Programming languages.
 
 
 
-
-
-#### Laravel website
-##### [Online-Shopping](http://www.mikiyakobayashi.com/)
-<a href="http://www.mikiyakobayashi.com/" target="_blank">
-     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
- </a>
- <br/>
-
-#### Frontend Design with react.js(NFT Marketplaces) 
-##### [Pocoland](https://pocoland.com/nft-market)
-<a href="https://pocoland.com/nft-market" target="_blank">
-     <img src="./images/pocoland.png" />
- </a>
-
-#### Laravel+React.js 
-##### [Online-shopping(clothes)](https://www.protest.eu/)
-<a href="https://www.protest.eu">
-     <img src="./images/httpswww.protest.eu.png" style="width: 100%;" target="_blank"/>
- </a>
- <br/>
-
-#### Frontend Design(Defi, NFT Staking, NFT Marketplace)
- <div>
-  <a href='https://dex.treedefi.com/' target='_blank'>
-  <img src='./project/treedefi_dex.png' width='32%'></img>
-  </a>
-  <a href='https://nft.treedefi.com/' target='_blank'>
-  <img src='./project/treedefi_marketplace.png' width='32%'></img>
-  </a>
-  <a href='https://nft.treedefi.com/merchandise' target='_blank'>
-  <img src='./project/treedefi_nftstaking.png' width='32%'></img>
-  </a>
-</div>
